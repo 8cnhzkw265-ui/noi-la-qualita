@@ -6,9 +6,9 @@ salumi, formaggi, miele, sottoli, tonno, tartufi, Doppio Senso, alcolici.
 
 ## Layout
 
-- `site/` — static site (`index.html`, `catalogo.html`, `prodotto.html`,
-  `assets/css/`, `assets/js/`, `assets/img/` with 273 `catalog-<code>.jpg`
-  product photos). Open `site/index.html` in a browser.
+- `index.html`, `catalogo.html`, `prodotto.html` — static site (GitHub Pages
+  serves it from the repo root). `assets/css/`, `assets/js/`, `assets/img/`
+  with 273 `catalog-<code>.jpg` product photos. Open `index.html` in a browser.
 - `wordpress/themes/noi-la-qualita/` — WordPress theme (custom post type
   `prodotto`, `tipo_prodotto` + `regione` taxonomies, catalog templates).
 
