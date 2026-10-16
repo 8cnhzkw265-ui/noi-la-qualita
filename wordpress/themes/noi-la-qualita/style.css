@@ -1,0 +1,19 @@
+/*
+Theme Name: Noi la Qualità
+Theme URI: https://www.noilaqualita.it
+Author: Noi, la qualità srl
+Description: Tema catalogo per Noi, la qualità / Golosaqualità. Design moderno e leggero con CPT prodotti, tipi e regioni di origine. Nessun e-commerce, nessun page builder.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: noi-la-qualita
+Tags: custom-menu, custom-logo, featured-images, translation-ready
+*/
+
+/*
+Nota: i stili reali sono in assets/css/style.css (enqueued da inc/enqueue.php).
+Questo file contiene solo l'header richiesto da WordPress.
+*/
