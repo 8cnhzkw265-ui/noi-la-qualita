@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-label="Immagine prodotto non disponibile">
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf8ee"/><stop offset="1" stop-color="#eee7d6"/></linearGradient></defs>
+  <rect width="640" height="640" rx="36" fill="url(#paper)"/>
+  <circle cx="320" cy="278" r="116" fill="#fffdf8" stroke="#d9d0bc" stroke-width="8"/>
+  <path d="M262 330h116l-12-112h-92z" fill="#67c5b5" stroke="#24416b" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M285 218v-30h70v30" fill="none" stroke="#24416b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M287 280h66" stroke="#fffdf8" stroke-width="8" stroke-linecap="round"/>
+  <text x="320" y="470" fill="#24416b" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="middle">Noi, la qualità</text>
+</svg>
